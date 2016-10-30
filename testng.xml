@@ -1,0 +1,23 @@
+<suite name = "Yahoo">
+
+
+<test name = "Registration details">
+	<classes>
+		<class name = "Test.RegistrationDetails"></class>
+	</classes>
+</test>
+
+<test name = "Yahoo Mail Test">
+ <classes>
+  	<class name = "Test.YahoomailTest"></class>
+  </classes>
+
+</test>
+
+<test name = "Yahoo News Test">
+	<classes>
+		<class name = "Test.YahooNewsTest"></class>
+	</classes>
+</test>
+
+</suite>
